@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElvisNascimento
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning PixelArt
+- 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
