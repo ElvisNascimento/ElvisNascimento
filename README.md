@@ -1,7 +1,11 @@
-### Olá Eu sou Elvis Nascimento
+### Olá me chamo Elvis mas não o Presley.
+Sou um apaixonado por tecnologia.
+Meu primeiro contato com programação foi em 2013, quando comecei a aprender sobre como desenvolvedor jogos digitais minha outra paixão.
+Apesar de não ter muita experiência na área pude participar de uns eventos na GGJ( Global Game Jam).
+Hoje já sei lidar com tecnologias voltadas para Front-end também. E gosto muito dessa área.
 
 - 🌱 Estudando Front-end e Back-end HTML ,CSS ,JavaScript ,React ,Node ,Python e C#(in Unity3D Engine)
-- 💞️ Procuro Amprender e colaborar e cada vez mais ir mais Além...
+- 💞️ Procuro Aprender e colaborar cada vez mais e ir mais Além...
 
 <div align="center">
   <a href="https://github.com/ElvisNascimento">
