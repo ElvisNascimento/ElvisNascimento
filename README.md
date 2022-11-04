@@ -1,4 +1,6 @@
-### Olá me chamo Elvis mas não o Presley.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=36&pause=1000&color=1F72F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Me+chamo+Elvis;Mas+n%C3%A3o+o+Presley)](https://git.io/typing-svg)
+
+
 Sou um apaixonado por tecnologia.
 Meu primeiro contato com programação foi em 2013, quando comecei a aprender sobre como desenvolvedor jogos digitais minha outra paixão.
 Apesar de não ter muita experiência na área pude participar de uns eventos na GGJ( Global Game Jam).
