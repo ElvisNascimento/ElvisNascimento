@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas Neue&size=36&pause=1000&color=1F72F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Me+chamo+Elvis;Mas+n%C3%A3o+o+Presley)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+ Neue&size=36&pause=1000&color=1F72F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Me+chamo+Elvis;Mas+n%C3%A3o+o+Presley)](https://git.io/typing-svg)
 
 
 Sou um apaixonado por tecnologia.
