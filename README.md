@@ -15,7 +15,7 @@ Hoje já sei lidar com tecnologias voltadas para Front-end também. E gosto muit
   
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ElvisNascimento&show_icons=true&theme=dark"/>
   
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisNascimento&layout=compact&langs_count=10&theme=dark"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisNascimento&layout=compact&langs_count=12&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Elvis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
