@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=36&pause=1000&color=1F72F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Me+chamo+Elvis;Mas+n%C3%A3o+o+Presley)](https://git.io/typing-svg)
 
 
+
+<img height="416px" src="./proggif.gif"/>
+
 Com uma sólida base em programação e um grande interesse em aprimorar minhas habilidades, estou determinado a ingressar ainda mais no campo da programação. Tenho experiência significativa em linguagens-chave como Java (desenvolvimento de aplicações backend ),C# (com desenvolvimento de jogos na Engine Unity3D), PHP e JavaScript/TypeScript (com desenvolvimento Web). Estou entusiasmado para explorar ainda mais suas possibilidades.
 
 Atualmente, trabalho como analista de desenvolvimento e backend com Java, além de frontend com Angular. Meu desejo de aprender e minha capacidade de resolver problemas impulsionam meu interesse em contribuir ativamente para projetos desafiadores. Estou sempre em busca de novos conhecimentos e desafios, pronto para embarcar em novas jornadas e aplicar meu conhecimento em diferentes contextos, colaborando com equipes motivadas.
-<img height="416px" src="./proggif.gif"/>
 
 
 <div align="center">
