@@ -16,7 +16,7 @@ Atualmente, trabalho como analista de desenvolvimento e backend com Java, além 
   
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisNascimento&layout=compact&langs_count=12&theme=dark"/>
 </div>
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: flex"><br>
   <img align="center" alt="Elvis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elvis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Elvis-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
